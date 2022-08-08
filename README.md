@@ -1,2 +1,2 @@
-# learn_git
-git learn
+test git
+wer are going to record git commands
